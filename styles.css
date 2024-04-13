@@ -1,0 +1,33 @@
+
+
+.bgc-red {
+  background-color: red;
+}
+
+.bgc-blue {
+  background-color: blue;
+}
+
+#darth-vader {
+font-size: 1.5rem;
+}
+
+#luke {
+  font-style: italic;
+}
+
+.soldier {
+  border: 5px outset #ff8989;
+}
+
+.add-letter-spacing {
+  letter-spacing: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+.ships {
+  text-transform: uppercase;
+}
